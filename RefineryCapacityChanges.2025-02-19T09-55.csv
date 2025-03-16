@@ -1,0 +1,146 @@
+Refinery,Country,Region,Company,ProjectType,EstimatedCompletion,NetChange,RunDate
+Shandong Yulong Petrochemical,China,China,Shandong Yulong Petrochemical,New,2024-09-01,200.0,2025-02-19
+Ust-Luga,Russia,FSU,Novatek,Expansion,2024-09-01,88.0,2025-02-19
+Dalian Petrochemical,China,China,PetroChina,Closure,2024-10-15,-90.0,2025-02-19
+Pasadena,United States,OECD Americas,Chevron,Expansion,2024-12-01,15.0,2025-02-19
+Reduc (Duque da Caixas),Brazil,Latin America,Petrobras,Expansion,2024-12-31,18.039999999999992,2025-02-19
+Yangguang bitumen,China,China,Yangguang bitumen,Closure,2025-01-01,-10.0,2025-02-19
+Shenxian Huaxiang,China,China,Dongying Yatong,Closure,2025-01-01,-12.0,2025-02-19
+Henan Oilfield Refinery,China,China,Sinopec,Closure,2025-01-01,-12.0,2025-02-19
+Sanshui Yihua,China,China,Sanshui Yihua,Closure,2025-01-01,-16.0,2025-02-19
+Zhonghai Asphalt Sichuan,China,China,CNOOC (China National Offshore Oil Corporation),Closure,2025-01-01,-12.0,2025-02-19
+Gaoqing Hongyun,China,China,Gaoqing Hongyun,Closure,2025-01-01,-14.0,2025-02-19
+Longyuan Petrochemical,China,China,Longyuan Petrochemical,Closure,2025-01-01,-10.0,2025-02-19
+Guangyuan Bitumen,China,China,Guangyuan bItumen,Closure,2025-01-01,-9.0,2025-02-19
+Fujairah (Fort Energy),United Arab Emirates,Middle East,Fort Energy,Closure,2025-01-27,-65.0,2025-02-19
+Houston (Lyondell),United States,OECD Americas,LyondellBasell,Closure,2025-01-27,-120.0,2025-02-19
+Houston (Lyondell),United States,OECD Americas,LyondellBasell,Closure,2025-02-28,-153.0,2025-02-19
+CNOOC_Daxie,China,China,CNOOC (China National Offshore Oil Corporation),Reduction,2025-02-28,-46.0,2025-02-19
+Rnest (Abreu e Lima),Brazil,Latin America,Petrobras,Expansion,2025-03-01,31.0,2025-02-19
+CNOOC_Daxie,China,China,CNOOC (China National Offshore Oil Corporation),Expansion,2025-03-01,120.0,2025-02-19
+Shandong Yulong Petrochemical,China,China,Shandong Yulong Petrochemical,New,2025-03-01,200.0,2025-02-19
+Vishakhapatnam (Visakh),India,Other Asia,HPCL,Expansion,2025-04-01,40.0,2025-02-19
+Grangemouth,United Kingdom,OECD Europe,Ineos,Closure,2025-04-01,-150.0,2025-02-19
+Lake Charles (Westlake - P66),United States,OECD Americas,Phillips 66,Expansion,2025-05-01,5.0,2025-02-19
+Zhenhai Petrochemical,China,China,Sinopec,Expansion,2025-05-01,220.0,2025-02-19
+Guo'an Chemical,China,China,Guo'an Chemical,Closure,2025-06-01,-6.0,2025-02-19
+Honghai Chemical,China,China,Honghai Chemical,Closure,2025-06-01,-26.0,2025-02-19
+Shandong Shida technology,China,China,Shandong Shida technology,Closure,2025-06-01,-30.0,2025-02-19
+Junsheng Chemical,China,China,Junsheng Chemical,Closure,2025-06-01,-6.0,2025-02-19
+Huasheng Chemical,China,China,Huasheng Chemical,Closure,2025-06-01,-6.0,2025-02-19
+Cabinda,Angola,Africa,Gemcorp,New,2025-06-01,30.0,2025-02-19
+Suez (Nasr),Egypt,Africa,Nasr,Expansion,2025-06-01,25.0,2025-02-19
+Mingyuan Chemical,China,China,Mingyuan Chemical,Closure,2025-06-01,-2.0,2025-02-19
+Yikun Chemical,China,China,Yikun Chemical,Closure,2025-06-01,-6.0,2025-02-19
+Sitra,Bahrain,Middle East,Bapco,Reduction,2025-06-30,-113.0,2025-02-19
+Dalian Petrochemical,China,China,PetroChina,Closure,2025-06-30,-200.0,2025-02-19
+Sitra,Bahrain,Middle East,Bapco,Expansion,2025-07-01,225.0,2025-02-19
+Barmer,India,Other Asia,HPCL,New,2025-09-01,181.0,2025-02-19
+Rheinland (Wesseling),Germany,OECD Europe,Shell,Closure,2025-09-30,-146.0,2025-02-19
+"Revap (Sao Jose dos Campos, SP)",Brazil,Latin America,Petrobras,Expansion,2025-10-01,19.00000000000003,2025-02-19
+Panjin (Norinco Huajin-Aramco JV),China,China,Norinco,New,2025-10-01,300.0,2025-02-19
+Los Angeles (Wilmington and Carson),United States,OECD Americas,Phillips 66,Closure,2025-11-15,-159.0,2025-02-19
+Huafeng Petrochemical,China,China,Zhuhai Huafeng,Closure,2025-12-01,-20.0,2025-02-19
+Gelsenkirchen (Scholven),Germany,OECD Europe,BP,Reduction,2025-12-01,-70.0,2025-02-19
+Zhongshan Tianyi,China,China,Zhongshan Tianyi,Closure,2025-12-01,-20.0,2025-02-19
+Alpha Jiangyin,China,China,Alpha Jiangyin,Closure,2025-12-01,-28.0,2025-02-19
+Puerto La Cruz,Venezuela,Latin America,PDVSA,Expansion,2025-12-31,20.0,2025-02-19
+Kingston,Jamaica,Latin America,Petrojam,Expansion,2025-12-31,14.0,2025-02-19
+Sentuo,Ghana,Africa,SORL,Expansion,2026-01-01,40.0,2025-02-19
+Heydar Aliyev (Baku),Azerbaijan,FSU,SOCAR,Expansion,2026-01-01,0.0,2025-02-19
+Azikel (Modular),Nigeria,Africa,Azikel Petroleum,New,2026-01-01,12.0,2025-02-19
+Mazeikiai,Lithuania,OECD Europe,Mazeikiu Nafta,Reduction,2026-01-01,-40.0,2025-02-19
+Numaligarh,India,Other Asia,Numaligarh,Expansion,2026-01-01,188.0,2025-02-19
+Assiut,Egypt,Africa,EGPC,Expansion,2026-01-01,50.0,2025-02-19
+Dos Bocas,Mexico,OECD Americas,Pemex,New,2026-02-01,170.0,2025-02-19
+Dos Bocas,Mexico,OECD Americas,Pemex,New,2026-05-01,170.0,2025-02-19
+Nagapattinam (Cauvery Basin),India,Other Asia,CPCL,Reduction,2026-05-31,-20.0,2025-02-19
+Berbice ,Guyana,Latin America,Unknown,New,2026-06-01,30.0,2025-02-19
+Qingyang,China,China,PetroChina,Expansion,2026-06-01,60.0,2025-02-19
+Jingmen Petrochemical,China,China,Sinopec,Expansion,2026-06-01,100.0,2025-02-19
+Koyali (Gujarat),India,Other Asia,IOC,Reduction,2026-06-30,-202.0,2025-02-19
+Barauni,India,Other Asia,IOC,Reduction,2026-07-01,-126.0,2025-02-19
+Koyali (Gujarat),India,Other Asia,IOC,Expansion,2026-07-01,300.0,2025-02-19
+Digboi,India,Other Asia,IOC,Expansion,2026-07-01,7.0,2025-02-19
+Barauni,India,Other Asia,IOC,Expansion,2026-07-02,180.0,2025-02-19
+Panipat,India,Other Asia,IOC,Expansion,2027-01-01,200.0,2025-02-19
+Paloch (Modular),South Sudan,Africa,Trinity Energy,New,2027-01-01,40.0,2025-02-19
+Missan (greenfield),Iraq,Middle East,Missan International Refinery and Chemical Company,New,2027-01-01,150.0,2025-02-19
+Mongol Refinery (Dornogovi),Mongolia,Other Asia,Government of Mongolia,New,2027-01-01,30.0,2025-02-19
+Vientiane (Lao Petroleum and Chemical),Laos,Other Asia,Lao-China Dongyan Petrochemical,Expansion,2027-01-01,20.0,2025-02-19
+Luba (Modular),Equatorial Guinea,Africa,GePetrol,New,2027-01-01,20.0,2025-02-19
+Qayyarah,Iraq,Middle East,North Refineries Company,Expansion,2027-01-01,70.0,2025-02-19
+Betano (Timor-Leste),East Timor,Other Asia,Timor Gap,New,2027-01-01,30.0,2025-02-19
+Siraf,Iran,Middle East,NIORDC,New,2027-01-01,240.0,2025-02-19
+Ibigwe (Modular),Nigeria,Africa,Waltersmith Petroman Oil Limited,Expansion,2027-01-01,20.0,2025-02-19
+Cogo (Modular),Equatorial Guinea,Africa,Unknown,New,2027-01-01,10.0,2025-02-19
+Davis,United States,OECD Americas,Meridian Energy Group,New,2027-01-01,27.5,2025-02-19
+Homs,Syria,Middle East,Homs Refinery Company,Expansion,2027-01-01,70.0,2025-02-19
+Hoima,Uganda,Africa,Other,New,2027-01-01,60.0,2025-02-19
+Dukan,Iraq,Middle East,KAT Group,Expansion,2027-01-01,40.0,2025-02-19
+Sebastopol,Colombia,Latin America,VIP Group International,New,2027-01-01,150.0,2025-02-19
+Fujairah (BPGIC),United Arab Emirates,Middle East,Brooge (BPGIC),New,2027-01-01,25.0,2025-02-19
+Punta Europa (Modular),Equatorial Guinea,Africa,Unknown,New,2027-01-01,5.0,2025-02-19
+Fujairah (Ecomar),United Arab Emirates,Middle East,Ecomar,Expansion,2027-03-01,40.0,2025-02-19
+Chonburi Refinery (Sriracha),Thailand,Other Asia,Thai Oil,Reduction,2027-03-31,-95.0,2025-02-19
+Chonburi Refinery (Sriracha),Thailand,Other Asia,Thai Oil,Expansion,2027-04-01,220.0,2025-02-19
+Paradip,India,Other Asia,IOC,Expansion,2027-06-01,85.0,2025-02-19
+Linden (GuyEnergy),Guyana,Latin America,GuyEnergy,New,2027-06-01,30.0,2025-02-19
+Chittagong,Bangladesh,Other Asia,Eastern Refinery Limited,Expansion,2027-06-01,60.0,2025-02-19
+Pars Behin Qeshm,Iran,Middle East,Pasargad Energy Development Company (PEDC),Expansion,2027-10-01,65.0,2025-02-19
+Porto Romano,Albania,Non-OECD Europe,Larkalis,New,2027-12-31,150.0,2025-02-19
+Melut refinery,South Sudan,Africa,Government of Sudan,New,2027-12-31,10.0,2025-02-19
+Qilu Petrochemical (Zibo),China,China,Sinopec,Reduction,2027-12-31,-130.0,2025-02-19
+Bina,India,Other Asia,BPCL,Expansion,2028-01-01,70.0,2025-02-19
+Atyrau,Kazakhstan,FSU,Kazmunaigaz,Expansion,2028-01-01,24.0,2025-02-19
+Cabinda,Angola,Africa,Gemcorp,Expansion,2028-01-01,30.0,2025-02-19
+Qilu Petrochemical (Zibo),China,China,Sinopec,Expansion,2028-01-01,200.0,2025-02-19
+Dung Quat,Vietnam,Other Asia,Binh Son Refining and Petrochemical Co,Expansion,2028-01-01,40.0,2025-02-19
+Anahita,Iran,Middle East,Anahita Oil Refining Company (ANORC),New,2028-01-01,150.0,2025-02-19
+Muara Besar (Hengyi),Brunei,Other Asia,Zhejiang Hengyi,Expansion,2028-01-01,50.0,2025-02-19
+Rnest (Abreu e Lima),Brazil,Latin America,Petrobras,Expansion,2028-01-01,100.0,2025-02-19
+Richard's Bay,South Africa,Africa,Saudi Aramco,New,2028-01-01,300.0,2025-02-19
+Akwa Ibom,Nigeria,Africa,DAMAS Petrochemicals & Refinery Limited,New,2028-01-01,85.0,2025-02-19
+Vadinar,India,Other Asia,Nayara Energy,Expansion,2028-01-01,400.0,2025-02-19
+Nagapattinam (Cauvery Basin),India,Other Asia,CPCL,Expansion,2028-01-01,180.0,2025-02-19
+Fujairah (BPGIC),United Arab Emirates,Middle East,Brooge (BPGIC),New,2028-01-01,180.0,2025-02-19
+Pavlodar,Kazakhstan,FSU,Kazmunaigaz,Expansion,2028-01-01,50.0,2025-02-19
+Movarid Makran,Iran,Middle East,Mofid Economic Group,New,2028-01-01,300.0,2025-02-19
+Long Son,Vietnam,Other Asia,Petro Vietnam,New,2028-01-01,200.0,2025-02-19
+Akwa Ibom,Nigeria,Africa,DAMAS Petrochemicals & Refinery Limited,New,2028-03-01,170.0,2025-02-19
+Fao,Iraq,Middle East,Other,New,2028-06-01,300.0,2025-02-19
+Zarqa (JRPC),Jordan,Middle East,JPRC,Expansion,2028-10-01,30.5,2025-02-19
+Soyo,Angola,Africa,"Quanten Consortium Angola, LLC",New,2029-01-01,100.0,2025-02-19
+Takoradi,Ghana,Africa,Takoradi Refinery Company Limited (TRCL),New,2029-01-01,65.0,2025-02-19
+Tuban (Pertamina),Indonesia,Other Asia,PT Pertamina Rosneft Pengolahan dan Petrokimia,New,2029-01-01,300.0,2025-02-19
+Ain Soukhna,Egypt,Africa,Soukna Refinery and Petrochemicals Company (SRPC),New,2029-01-01,155.0,2025-02-19
+Nasiriya (greenfield),Iraq,Middle East,Norinco,New,2029-01-01,150.0,2025-02-19
+Vientiane (Lao Petroleum and Chemical),Laos,Other Asia,Lao-China Dongyan Petrochemical,Expansion,2029-01-01,20.0,2025-02-19
+Kamsar (Modular),Equatorial Guinea,Africa,Brahms Oil Refineries Ltd.,New,2029-01-01,12.0,2025-02-19
+Khyber Pakhtunkhwa,Pakistan,Other Asia,Falcon Oil PLC,New,2029-01-01,50.0,2025-02-19
+Gwadar,Pakistan,Other Asia,Saudi Aramco,New,2029-01-01,300.0,2025-02-19
+Bongaigaon,India,Other Asia,IOC,Expansion,2029-01-01,46.0,2025-02-19
+South Refinery,Libya,Africa,Zallaf Oil & Gas,New,2029-07-01,30.0,2025-02-19
+Hassi Messaoud 2,Algeria,Africa,Sonatrach,New,2029-12-01,108.0,2025-02-19
+Lobito,Angola,Africa,Sonangol,New,2029-12-01,200.0,2025-02-19
+Qayyarah,Iraq,Middle East,North Refineries Company,Reduction,2029-12-31,-12.0,2025-02-19
+MIDOil,Nigeria,Africa,Midoil Refining & Petrochemicals Company Limited,New,2030-01-01,100.0,2025-02-19
+Nagarjuna,India,Other Asia,Nagarjuna Oil Corporation Ltd,New,2030-01-01,120.0,2025-02-19
+Kirkuk (greenfield),Iraq,Middle East,Other,New,2030-01-01,100.0,2025-02-19
+Andhra Pradesh ,India,Other Asia,BPCL,New,2030-01-01,240.0,2025-02-19
+Hambantota,Sri Lanka,Other Asia,Sinopec,New,2030-01-01,200.0,2025-02-19
+Point Noire II Refinery,Congo,Africa, Atlantic International Refineries & Petrochemicals Limited,New,2030-01-01,65.0,2025-02-19
+Nawule,Ghana,Africa,Petroleum Hub Development Corp.,New,2030-01-01,300.0,2025-02-19
+Khuzestan,Iran,Middle East,NIORDC,New,2030-01-01,180.0,2025-02-19
+Azikel (Modular),Nigeria,Africa,Azikel Petroleum,Expansion,2030-01-01,13.0,2025-02-19
+Tiaret,Algeria,Africa,Sonatrach,New,2030-01-01,100.0,2025-02-19
+Duqm VLSFO,Oman,Middle East,Canada Business Holdings,New,2030-01-01,300.0,2025-02-19
+Shahid Soleimani,Iran,Middle East,NIORDC,New,2030-01-01,300.0,2025-02-19
+Shymkent,Kazakhstan,FSU,PetroKazakhstan,Expansion,2030-01-01,120.0,2025-02-19
+Kulevi,Georgia,FSU,Black Sea Petroleum,New,2030-01-01,28.497,2025-02-19
+Diwaniya,Iraq,Middle East,INOC,Expansion,2030-06-01,70.0,2025-02-19
+Brownsville,United States,OECD Americas,Element Fuels,New,2030-06-01,160.0,2025-02-19
+Sinopec-Aramco-Gulei JV,China,China,Fujian Refining and Petrochemical Company,New,2030-12-01,320.0,2025-02-19
+Nasiriya,Iraq,Middle East,South Refineries Company,Expansion,2030-12-31,70.0,2025-02-19
+Khalifa,Pakistan,Other Asia,Pak Arab Refinery Ltd (PARCO),New,2031-01-01,250.0,2025-02-19
+Dalian Petrochemical (New site),China,China,PetroChina,New,2032-01-01,200.0,2025-02-19
